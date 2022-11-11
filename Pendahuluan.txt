@@ -1,3 +1,4 @@
 sudah paham Http
 PHP dasar
 mengenal apa itu git
+dan Git hub
